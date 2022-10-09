@@ -1,0 +1,24 @@
+1) Position vs number of players
+In football, certain uncommon positions like the SS(second striker), LMF/RMF aren't always a part of a team's formation hence only few players are registered in that position while the CB(central back) is the main defender which is a prominent position and a part of most team formations
+
+2) Regions Pie chart
+
+3) Age distribution and dominant foot
+As expected the dominant foot of most footballers is the right foot. The age groups with the most frequencies are 22-24 and 24-28. One reason that could be given is because this is around the time when most footballers reach their "prime". 
+
+4) Number of players in each League
+
+5) Position vs finishing ability
+Players who play at offensive positions like the CF(central forward), SS(second striker), LWF/RWF(left/right-wing forward) have  better finishing(goal scoring) rating than defensive ones.
+
+
+6) position vs stamina/speed
+Although these 2 metrics are almost uniformly distributed for most of the positions, we see that the goalkeeper has the lowest stamina as well as the speed stat, and this is predominantly because he's confined to the goalpost area and as such doesnt have to do sprints. DMF(defensive mid fielders) play an offensive as well as defensive role, hence they're expected to have higher stamina than other position players. And the wingers(LWF and RWF) have to be faster in average in order to outpace defenders enabling them to provide crosses)
+
+7) jerseys
+Jersey numbers are widely distributed throughout different positions, but we do see patterns. Certain big bubbles pop up (eg. CF 9, GK 1, CB 5) and for good reason. The numbers were traditionally assigned to specific roles or positions on a team (starting from 1 for GK gradually to the striker), but they no longer reflect this. A player can wear any number their club agrees to. Nevertheless, the traditional jersey numbers are considered prestigious and hence are most sought out for.
+
+
+
+
+
